@@ -1,1 +1,1 @@
-# b2b_payment_transparency_and_efficiency_platform
+# B2B Payment Transparency and Efficiency Platform
